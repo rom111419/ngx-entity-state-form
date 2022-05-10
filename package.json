@@ -3,7 +3,7 @@
   "description": "Library connects any entity model, ngrx-state and react form. Form will change value after state patching",
   "author": "Roman Zhukov",
   "license": "Apache-2.0 License",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "node": ">=16.13.0"
   },

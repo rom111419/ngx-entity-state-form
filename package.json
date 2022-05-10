@@ -7,6 +7,11 @@
   "engines": {
     "node": ">=16.13.0"
   },
+  "scripts": {
+    "ngx-entity-state-form__watch": "ng build ngx-entity-state-form --watch",
+    "ngx-entity-state-form__build-dev": "ng build ngx-entity-state-form --configuration development",
+    "ngx-entity-state-form__build": "ng build ngx-entity-state-form"
+  },
   "peerDependencies": {
     "@angular/common": "^13.1.0",
     "@angular/core": "^13.1.0"
@@ -17,10 +22,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rom111419/ngx-entity-state-form"
-  },
-  "husky": {
-    "hooks": {
-      "post-commit": "npm version patch"
-    }
   }
 }

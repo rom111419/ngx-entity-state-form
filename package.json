@@ -3,7 +3,7 @@
   "description": "Library connects any entity model, ngrx-state and react form. Form will change value after state patching",
   "author": "Roman Zhukov",
   "license": "Apache-2.0 License",
-  "version": "0.0.2",
+  "version": "0.0.8",
   "engines": {
     "node": ">=16.13.0"
   },
@@ -13,8 +13,8 @@
     "ngx-entity-state-form__build": "ng build ngx-entity-state-form"
   },
   "peerDependencies": {
-    "@angular/common": "^13.1.0",
-    "@angular/core": "^13.1.0"
+    "@angular/common": "^14.2.6",
+    "@angular/core": "^14.2.6"
   },
   "dependencies": {
     "tslib": "^2.3.0"

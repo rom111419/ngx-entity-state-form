@@ -4,7 +4,7 @@ import { State } from '@ngrx/store';
 import { take } from 'rxjs';
 import { Entity } from './entity';
 import { FormControl } from '@angular/forms';
-import { NgxReactFormMethodsService } from '@rom111419/ngx-react-form-methods';
+import { NgxReactFormMethodsService } from 'projects/ngx-react-form-methods/src/public-api';
 
 @Injectable({
   providedIn: 'root',

@@ -13,8 +13,8 @@
     "ngx-entity-state-form__build": "ng build ngx-entity-state-form"
   },
   "peerDependencies": {
-    "@angular/common": "^14.2.6",
-    "@angular/core": "^14.2.6"
+    "@angular/common": "^15.0.3",
+    "@angular/core": "^15.0.3"
   },
   "dependencies": {
     "tslib": "^2.3.0"

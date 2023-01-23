@@ -3,5 +3,3 @@
  */
 
 export * from './lib/ngx-entity-state-form.service';
-export * from './lib/ngx-entity-state-form.component';
-export * from './lib/ngx-entity-state-form.module';
